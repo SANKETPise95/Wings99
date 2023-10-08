@@ -425,6 +425,7 @@
     border-radius: 15px 0 0 15px;
     cursor: pointer;
     border: .5px dotted aqua;
+    color: aqua;
     transition-duration: .4s;
 }
 #flight2-btn-div{
@@ -432,6 +433,7 @@
     border-radius: 0 15px 15px 0;
     cursor: pointer;
     border: .5px dotted aqua;
+    color: aqua;
     transition-duration: .4s;
 }
 /*.active-div{
