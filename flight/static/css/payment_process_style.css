@@ -91,11 +91,11 @@
     animation-name: enlarge;
     animation-duration: .5s;
     animation-fill-mode: forwards;
-    color: rgb(215, 0, 0);
+    color: rgb(59, 188, 238);
     margin: auto;
 }
 .star{
-    color: rgb(200, 0, 0);
+    color: rgb(59, 188, 238);
 }
 
 

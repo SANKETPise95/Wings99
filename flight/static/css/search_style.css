@@ -424,16 +424,16 @@
     padding: 5px 10px;
     border-radius: 15px 0 0 15px;
     cursor: pointer;
-    border: .5px dotted aqua;
-    color: aqua;
+    border: .5px dotted rgb(59, 188, 238);
+    color: rgb(59, 188, 238);
     transition-duration: .4s;
 }
 #flight2-btn-div{
     padding: 5px 10px;
     border-radius: 0 15px 15px 0;
     cursor: pointer;
-    border: .5px dotted aqua;
-    color: aqua;
+    border: .5px dotted rgb(59, 188, 238);
+    color:rgb(59, 188, 238) ;
     transition-duration: .4s;
 }
 /*.active-div{
