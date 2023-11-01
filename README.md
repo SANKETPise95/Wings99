@@ -1,9 +1,9 @@
-![icon_logo](https://user-images.githubusercontent.com/56977388/178157849-38d2f2c3-1c93-4dac-9577-57f3a752e2cd.png)
 
+![Screenshot 2023-10-08 194421](https://github.com/SANKETPise95/Wings99/assets/143407431/c6827f3e-386a-4204-b9b3-f1e3be136958)
 
 
 A flight booking Django application written in Python, HTML, CSS & Javascript.
-This is the capstone project for SIP(Summer Internship Project)for Amity UNiversity's CSE course.
+This is the capstone project for SIP(Summer Internship Project)for Amity University's CSE course.
 
 
 
